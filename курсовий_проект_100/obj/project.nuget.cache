@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPL8wmkHQtJ/bbdxmMa9GB9ISrVjTqZo0JQmn68D52UHSLgcSnrmeYioNmcga/gmXtViCKHtRSIWUVOHGGSOmw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio2019\\3 курс\\курсовий_проект_100\\курсовий_проект_100.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\livecharts.winforms\\0.9.7.1\\livecharts.winforms.0.9.7.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512"
+  ],
+  "logs": []
+}
